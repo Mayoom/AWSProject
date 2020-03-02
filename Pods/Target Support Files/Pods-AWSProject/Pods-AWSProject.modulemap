@@ -1,0 +1,6 @@
+framework module Pods_AWSProject {
+  umbrella header "Pods-AWSProject-umbrella.h"
+
+  export *
+  module * { export * }
+}

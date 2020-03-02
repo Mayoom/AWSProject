@@ -1,0 +1,6 @@
+framework module Pods_AWSProject_AWSProjectUITests {
+  umbrella header "Pods-AWSProject-AWSProjectUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
